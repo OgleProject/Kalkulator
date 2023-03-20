@@ -1,0 +1,15 @@
+C:\Kuliah\Pemrograman\Pertemuan 1\Tugas\CalculatorConsoleApp\bin\Debug\net7.0\CalculatorConsoleApp.exe
+C:\Kuliah\Pemrograman\Pertemuan 1\Tugas\CalculatorConsoleApp\bin\Debug\net7.0\CalculatorConsoleApp.deps.json
+C:\Kuliah\Pemrograman\Pertemuan 1\Tugas\CalculatorConsoleApp\bin\Debug\net7.0\CalculatorConsoleApp.runtimeconfig.json
+C:\Kuliah\Pemrograman\Pertemuan 1\Tugas\CalculatorConsoleApp\bin\Debug\net7.0\CalculatorConsoleApp.dll
+C:\Kuliah\Pemrograman\Pertemuan 1\Tugas\CalculatorConsoleApp\bin\Debug\net7.0\CalculatorConsoleApp.pdb
+C:\Kuliah\Pemrograman\Pertemuan 1\Tugas\CalculatorConsoleApp\obj\Debug\net7.0\CalculatorConsoleApp.csproj.AssemblyReference.cache
+C:\Kuliah\Pemrograman\Pertemuan 1\Tugas\CalculatorConsoleApp\obj\Debug\net7.0\CalculatorConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Kuliah\Pemrograman\Pertemuan 1\Tugas\CalculatorConsoleApp\obj\Debug\net7.0\CalculatorConsoleApp.AssemblyInfoInputs.cache
+C:\Kuliah\Pemrograman\Pertemuan 1\Tugas\CalculatorConsoleApp\obj\Debug\net7.0\CalculatorConsoleApp.AssemblyInfo.cs
+C:\Kuliah\Pemrograman\Pertemuan 1\Tugas\CalculatorConsoleApp\obj\Debug\net7.0\CalculatorConsoleApp.csproj.CoreCompileInputs.cache
+C:\Kuliah\Pemrograman\Pertemuan 1\Tugas\CalculatorConsoleApp\obj\Debug\net7.0\CalculatorConsoleApp.dll
+C:\Kuliah\Pemrograman\Pertemuan 1\Tugas\CalculatorConsoleApp\obj\Debug\net7.0\refint\CalculatorConsoleApp.dll
+C:\Kuliah\Pemrograman\Pertemuan 1\Tugas\CalculatorConsoleApp\obj\Debug\net7.0\CalculatorConsoleApp.pdb
+C:\Kuliah\Pemrograman\Pertemuan 1\Tugas\CalculatorConsoleApp\obj\Debug\net7.0\CalculatorConsoleApp.genruntimeconfig.cache
+C:\Kuliah\Pemrograman\Pertemuan 1\Tugas\CalculatorConsoleApp\obj\Debug\net7.0\ref\CalculatorConsoleApp.dll
